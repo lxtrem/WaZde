@@ -29,6 +29,8 @@ Thanks for reading, Raphael.
 
 # WaZde in French
 
+WaZde est un synthétiseur gratuit et open source. 
+
 Présentation du logiciel
 ------------------------
 
