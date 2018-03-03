@@ -1,6 +1,6 @@
 # WaZde
 
-WaZde is an open-source and free music mixer and synthesizer.
+WaZde is an open-source and free music synthesizer.
 
 Software's presentation
 -----------------------
