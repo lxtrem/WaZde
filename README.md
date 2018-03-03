@@ -21,7 +21,7 @@ We are doing that on our free time so this will be a very long project.
 Our target audience
 -----------
 
-Our target audience are begginers because at first time, because the software will be very simple and basic but as we'll work on the project, there will have more and more functions.
+We are aiming at a beginner audience because at first time, because the software will be very simple and basic but as we'll work on the project, there will have more and more functions.
 Maybe we'll create two mode, one basic and one expert.
 
 
@@ -50,7 +50,7 @@ Nous faisons ça sur notre temps libre donc ce projet sera long.
 Nos cibles
 ----------
 
-Nos premières cibles seront les débutants car le logiciel sera extrêmement simple et basic mais au fur et à mesure que nous avancerons, le logiciel sera de plus en plus complet et il y aura de plus en plus de fonctions. 
+Nous visons tout d'abord un public de débutants car le logiciel sera extrêmement simple et basique mais au fur et à mesure que nous avancerons, le logiciel sera de plus en plus complet et il y aura de plus en plus de fonctions. 
 Peut être que nous ferons deux modes, un basique et un expert.
 
 Merci de nous avoir lu, 
