@@ -15,7 +15,7 @@ About us
 
 We're two French guys, Raphael and Antoine.
 I (Raphael) am fond of computer programming and i particularly love c++.
-My friend Antoine is captivated by electronic music but great synthesizers ar costly and as he also likes computer programming, we decided to create our own synthesizer.
+My friend Antoine is captivated by electronic music but great synthesizers are costly and as he also likes computer programming, we decided to create our own synthesizer.
 We are doing that on our free time, therefore it will be a very long project.
 
 Targeted audience
