@@ -9,6 +9,7 @@ It'll be written in c++, probably with Qt for the graphical interface and PortAu
 We know that we'll need to manually modify the hexadecimal code of the audio file.
 In the software, the file will be edited in wav format.
 Currently we are working on WaZde's design.
+Here is our (amazing) logo https://github.com/lxtrem/WaZde/blob/master/WaZde-2.jpg
 
 About us
 ----------------
@@ -37,7 +38,8 @@ Présentation du logiciel
 WaZde sera écrit en c++, sûrement avec Qt pour l'interface graphique et PortAudio pour modifier les sons. 
 Nous savons que nous allons aussi avoir besoin de modifier directement l'hexadecimal des fichiers.
 Dans le logiciel, le son sera traité en wav (non compressé). 
-Nous travaillons actuellement sur la conception de WaZde. 
+Nous travaillons actuellement sur la conception de WaZde.
+Notre (superbe) logo se trouve ici : https://github.com/lxtrem/WaZde/blob/master/WaZde-2.jpg
 
 Notre présentation
 ------------------
