@@ -5,8 +5,8 @@ WaZde is an open-source and free music synthesizer.
 Software's presentation
 -----------------------
 
-It'll be written in c++, probably with Qt for the graphical interface and PortAudio to edit the sounds.
-We know that we'll need to manually modify the hexadecimal code of the audio file.
+It'll be written in c++, with Qt for the GUI.
+To edit audio files, we work directly in binary .
 In the software, the file will be edited in wav format.
 Currently we are working on WaZde's design.
 [Here](https://github.com/lxtrem/WaZde/blob/master/WaZde-2.jpg) is our (amazing) logo.
@@ -17,7 +17,7 @@ About us
 
 We're two French guys, Raphael and Antoine.
 I (Raphael) am fond of computer programming and i particularly love c++.
-My friend Antoine is captivated by electronic music but great synthesizers are costly and as he also likes computer programming, we decided to create our own synthesizer.
+My friend Antoine is captivated by electronic music but great synthesizers are costly and as we are very close, we decided to create our own synthesizer.
 We do that on our free time, therefore it will be a very long project.
 
 Targeted audience
@@ -27,7 +27,10 @@ We are aiming at a beginner audience because at first, the software will be basi
 Maybe we'll create two modes, a basic and an expert one.
 
 
-Thanks for reading, Raphael.
+Thanks for reading,
+Raphael.
+
+PS: The first commits will arrive soon, when we will have our first versions of realized.
 
 # WaZde in French
 
@@ -36,8 +39,8 @@ WaZde est un synthétiseur gratuit et open source.
 Présentation du logiciel
 ------------------------
 
-WaZde sera écrit en c++, sûrement avec Qt pour l'interface graphique et PortAudio pour modifier les sons. 
-Nous savons que nous allons aussi avoir besoin de modifier directement l'hexadecimal des fichiers.
+WaZde sera écrit en c++, avec Qt pour la GUI. 
+Pour créer et éditer des sons, nous travaillerons directement en binaire.
 Dans le logiciel, le son sera traité en wav (non compressé). 
 Nous travaillons actuellement sur la conception de WaZde.
 Notre (superbe) logo se trouve [ici](https://github.com/lxtrem/WaZde/blob/master/WaZde-2.jpg).
@@ -48,7 +51,7 @@ Notre présentation
 
 Nous sommes deux garçons français, Raphaël et Antoine.
 Je (Raphaël) suis passionné de programmation et j'aime particulièrement le c++. 
-Mon ami Antoine aime beaucoup la musique électronique mais les bons synthétiseurs sont extrêmement chers et comme il aime aussi beaucoup la programmation, nous avons décidé de créer notre propre synthétiseur. 
+Mon ami Antoine aime beaucoup la musique électronique mais les bons synthétiseurs sont extrêmement chers et comme nous sommes très proches, nous avons décidé de créer notre propre synthétiseur. 
 Nous faisons ça sur notre temps libre donc ce projet sera long. 
 
 Nos cibles
@@ -59,3 +62,5 @@ Peut être que nous ferons deux modes, un basique et un expert.
 
 Merci de nous avoir lu, 
 Raphaël
+
+PS: Les premiers commits arriveront d'ici peu, lorsque nous aurons nos premières versions de réalisées.
